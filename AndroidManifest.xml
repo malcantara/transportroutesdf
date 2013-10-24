@@ -33,7 +33,7 @@
             android:value="AIzaSyBRFXjnEvO1ZrtmdsmKpB6Elyc6vAqKiHI" />
         
         <activity
-            android:name="com.discere.transportroutesdf.TransportRoutes"
+            android:name="com.discere.transportroutesdf.TransportRoutesActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

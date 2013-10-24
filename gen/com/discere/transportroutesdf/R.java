@@ -1133,6 +1133,37 @@ containing a value of this type.
         public static final int common_signin_btn_text_pressed_dark=0x7f02006d;
         public static final int common_signin_btn_text_pressed_light=0x7f02006e;
         public static final int ic_launcher=0x7f02006f;
+        public static final int ic_mb_l1_18_marzo=0x7f020070;
+        public static final int ic_mb_l1_alvaro_obregon=0x7f020071;
+        public static final int ic_mb_l1_buenavista=0x7f020072;
+        public static final int ic_mb_l1_campeche=0x7f020073;
+        public static final int ic_mb_l1_chilpancingo=0x7f020074;
+        public static final int ic_mb_l1_circuito=0x7f020075;
+        public static final int ic_mb_l1_colonia_del_valle=0x7f020076;
+        public static final int ic_mb_l1_corregidora=0x7f020077;
+        public static final int ic_mb_l1_cu=0x7f020078;
+        public static final int ic_mb_l1_durango=0x7f020079;
+        public static final int ic_mb_l1_el_chopo=0x7f02007a;
+        public static final int ic_mb_l1_euzkaro=0x7f02007b;
+        public static final int ic_mb_l1_francia=0x7f02007c;
+        public static final int ic_mb_l1_hamburgo=0x7f02007d;
+        public static final int ic_mb_l1_insurgentes=0x7f02007e;
+        public static final int ic_mb_l1_jm_velasco=0x7f02007f;
+        public static final int ic_mb_l1_la_piedad=0x7f020080;
+        public static final int ic_mb_l1_la_raza=0x7f020081;
+        public static final int ic_mb_l1_manuel_gonzalez=0x7f020082;
+        public static final int ic_mb_l1_napoles=0x7f020083;
+        public static final int ic_mb_l1_nuevo_leon=0x7f020084;
+        public static final int ic_mb_l1_parque_hundido=0x7f020085;
+        public static final int ic_mb_l1_parque_olivo=0x7f020086;
+        public static final int ic_mb_l1_poliforum=0x7f020087;
+        public static final int ic_mb_l1_potrero=0x7f020088;
+        public static final int ic_mb_l1_reforma=0x7f020089;
+        public static final int ic_mb_l1_revolucion=0x7f02008a;
+        public static final int ic_mb_l1_san_simon=0x7f02008b;
+        public static final int ic_mb_l1_sonora=0x7f02008c;
+        public static final int ic_mb_l1_teatro_insurgentes=0x7f02008d;
+        public static final int ic_mb_l1_villa_olimpica=0x7f02008e;
     }
     public static final class id {
         public static final int action_bar=0x7f06001d;
